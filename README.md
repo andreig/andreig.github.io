@@ -85,9 +85,9 @@ Mar 2010 – Mar 2012, 2 yrs 1 mo
 Oct 2004 - Jun 2014, 9 yrs 9 mo
 
 > - Created the *Networking* and *Software Modeling* lab materials, helped create and teach the *Operating Systems* lab.
-> - Created the B624 lab portal [www.b624.net](https://www.b624.net) as a place to share laboratory materials,
->  share up to date information, post exam schedules and grades and most importantly
->   host class material in an accessible format for students. 
+> - Created the [www.b624.net](https://www.b624.net) portal as a place to share laboratory materials,
+>  share up to date information, post exam schedules and grades and most importantly 
+>  host class material in an accessible format for students. 
 > - Established the ActiveState, Github and Dropbox educational partnerships resulting in student privileged access
 >  to free licenses, private repositories and free cloud storage.
 > - Introduced GitHub laboratory assignment tracking and grading, helping students getting familiar
