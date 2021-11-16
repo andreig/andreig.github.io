@@ -1,12 +1,11 @@
 # Andrei GUDIU
-andreig@openbsd-box.org
-+40749167777
-Romanian, English, German, Hungarian
+andreig@openbsd-box.org\
++40749167777\
+Romanian, English, German, Hungarian\
 https://www.linkedin.com/in/andrei-gudiu/
 
 
 ## EXPERIENCE
-----------
 
 
 ![](https://paper-attachments.dropbox.com/s_D7AE016DE281AA8DB3281CBA5354116B051D9F944522D1C245C69A63FF7474CD_1636643496525_bmlogo_100.png)
@@ -17,19 +16,19 @@ https://www.linkedin.com/in/andrei-gudiu/
 https://www.bluematrix.com
 
 
-
+**Chief Therapy Officer** 
+May 2020 - Present, 1 yr 7 mo
     
-    **Chief Therapy Officer** 
-    May 2020 - Present, 1 yr 7 mo
-    
-    - Fostered a culture across the organization of having conversations based on organizational strategy and principles to create alignment with business.
+    - Fostered a culture across the organization of having conversations based on organizational
+      strategy and principles to create alignment with business.
     - Helped create or redefine road-maps across the company with product & business counterparts.
     - Fostered a culture of documentation and knowledge sharing across the organization.
-    - Drove the pandemic response in the work environment, seamless shifting the departments from in-office to fully remote .
+    - Drove the pandemic response in the work environment, seamless shifting the departments
+      from in-office to fully remote .
 
 
-    **Director Of Engineering**
-    Aug 2016 – May 2020, 3 yrs 10 mo
+**Director Of Engineering**
+Aug 2016 – May 2020, 3 yrs 10 mo
     
     - Ran pre-sales cycles for major European clients, tailoring services and products to meet customer needs, helping the closing deals of ~2M+ in revenue. Pre-sales activity included discovering details of business that the prospect has, tailoring solution presentations, preparing technical RFPs, creating and running PoCs.
     - Led operations for streamlining new client onboarding, established a repeatable, clear process for both technologists and account managers . Added traceability, significantly reduced complexity and time from contract signing to go-live. 
@@ -37,8 +36,8 @@ https://www.bluematrix.com
     - Established a uniform technical hiring and training process throughout the company, improving both the candidate selection process and experience but also the training stages.
 
 
-    **Technical Team Lead**
-    Nov 2014 – Aug 2016, 1 yr 10 mo
+**Technical Team Lead**
+Nov 2014 – Aug 2016, 1 yr 10 mo
     
     - Grew the team from 4 for 9 people, establishing a cross-technical, cross-functional team able to complete end to end products through mentoring, training programs, inspiring active learning.
     - Established continuous team communication and monitoring, weekly one on one meetings, periodic evaluations, re-alignments, trainings. 
