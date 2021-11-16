@@ -31,7 +31,7 @@ May 2020 - Present
 
 
 **Director Of Engineering**  
-Aug 2016 – May 2020, 3 yrs 10 mo[^bm_doe]
+Aug 2016 – May 2020, 3 yrs 10 mo
 [^bm_doe]: Ansible, ELK, MySQL, Prometheus & Grafana
     
 > - Ran pre-sales cycles for major European clients, tailoring services and products to meet customer needs,
