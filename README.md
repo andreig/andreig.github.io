@@ -22,21 +22,28 @@ Romanian, English, German, Hungarian
 **Chief Therapy Officer**  
 May 2020 - Present
     
-    - Fostered a culture across the organization of having conversations based on organizational
-      strategy and principles to create alignment with business.
-    - Helped create or redefine road-maps across the company with product & business counterparts.
-    - Fostered a culture of documentation and knowledge sharing across the organization.
-    - Drove the pandemic response in the work environment, seamless shifting the departments
-      from in-office to fully remote .
+> - Fostered a culture across the organization of having conversations based on organizational 
+> strategy and principles to create alignment with business.
+> - Helped create or redefine road-maps across the company with product & business counterparts.
+> - Fostered a culture of documentation and knowledge sharing across the organization.
+> - Drove the pandemic response in the work environment, seamless shifting the departments
+>  from in-office to fully remote .
 
 
 **Director Of Engineering**  
 Aug 2016 – May 2020, 3 yrs 10 mo
     
-    - Ran pre-sales cycles for major European clients, tailoring services and products to meet customer needs, helping the closing deals of ~2M+ in revenue. Pre-sales activity included discovering details of business that the prospect has, tailoring solution presentations, preparing technical RFPs, creating and running PoCs.
-    - Led operations for streamlining new client onboarding, established a repeatable, clear process for both technologists and account managers . Added traceability, significantly reduced complexity and time from contract signing to go-live. 
-    - Initiated a technical debt reduction schedule, focusing 20% of the release cycles on improving security and stability,  drastically reducing technical debt in a concentrated fashion. Improved data storage, aligned internationalization components to current standards, upgraded job scheduling frameworks, decoupled the core business application into microservices.
-    - Established a uniform technical hiring and training process throughout the company, improving both the candidate selection process and experience but also the training stages.
+> - Ran pre-sales cycles for major European clients, tailoring services and products to meet customer needs,
+>  helping the closing deals of ~2M+ in revenue. Pre-sales activity included discovering details of business
+>   that the prospect has, tailoring solution presentations, preparing technical RFPs, creating and running PoCs.
+> - Led operations for streamlining new client onboarding, established a repeatable, clear process for both
+>  technologists and account managers . Added traceability, significantly reduced complexity and time from
+>   contract signing to go-live. 
+> - Initiated a technical debt reduction schedule, focusing 20% of the release cycles on improving security
+>  and stability,  drastically reducing technical debt in a concentrated fashion. Improved data storage,
+>   aligned internationalization components to current standards, upgraded job scheduling frameworks, decoupled the core business application into microservices.
+> - Established a uniform technical hiring and training process throughout the company, improving both
+>  the candidate selection process and experience but also the training stages.
 
 
 **Technical Team Lead**  
