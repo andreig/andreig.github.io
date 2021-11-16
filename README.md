@@ -23,10 +23,10 @@ Romanian, English, German, Hungarian
 **Chief Therapy Officer**  
 May 2020 - Present
 
-> - Helped create or redefine road-maps across the company with product & business counterparts.
-> - Fostered a culture of documentation and knowledge sharing across the organization.
-> - Managed the pandemic response in the work environment, seamless shifting the departments
->  from in-office to fully remote.
+> - Help create or redefine road-maps across the company with product & business counterparts.
+> - Foster a culture of documentation and knowledge sharing across the organization.
+> - Managed the pandemic response in the work environment, seamless shifting the departments 
+> from in-office to fully remote.
 > - Led the effort for accomplishing *encryption at rest* for databases and filesystems.
 
 
@@ -35,17 +35,17 @@ Aug 2016 – May 2020, 3 yrs 10 mo[^bm_doe]
 [^bm_doe]: Ansible, ELK, MySQL, Prometheus & Grafana
     
 > - Ran pre-sales cycles for major European clients, tailoring services and products to meet customer needs,
->  helping the closing deals of ~2M+ in revenue. Pre-sales activity included discovering details of business
->   that the prospect has, tailoring solution presentations, preparing technical RFPs, creating and running PoCs.
+> helping the closing deals of ~2M+ in revenue. Pre-sales activity included discovering details of business
+> that the prospect has, tailoring solution presentations, preparing technical RFPs, creating and running PoCs.
 > - Led operations for streamlining new client onboarding, established a repeatable, clear process for both
->  technologists and account managers. Added traceability, significantly reduced complexity and time from
->   contract signing to go-live. 
-> - Initiated a technical debt reduction schedule, focusing 20% of the release cycles on improving security
->  and stability,  drastically reducing technical debt in a concentrated fashion. Improved data storage,
->   aligned internationalization components to current standards, upgraded job scheduling frameworks, 
->   decoupled parts of the core business application into microservices.
-> - Established a uniform technical hiring and training process throughout the company, improving both
->  the candidate selection process and experience but also the training stages.
+> technologists and account managers. Added traceability, significantly reduced complexity and time from
+>  contract signing to go-live. 
+> - Initiated a technical debt reduction schedule, focusing 20% of the release cycles on improving security 
+> and stability,  drastically reducing technical debt in a concentrated fashion. Improved data storage,
+> aligned internationalization components to current standards, upgraded job scheduling frameworks, 
+> decoupled parts of the core business application into microservices.
+> - Established a uniform technical hiring and training process throughout the company, improving both 
+> the candidate selection process and experience but also the training stages.
 
 
 **Technical Team Lead**  
@@ -54,21 +54,23 @@ Nov 2014 – Aug 2016, 1 yr 10 mo
 > - Grew the team from 4 for 9 people, establishing a cross-technical, cross-functional team able to complete end
 >  to end products through mentoring, training programs, inspiring active learning.
 > - Established continuous team communication and monitoring, weekly one on one meetings,
->  periodic evaluations, re-alignments, trainings. 
+>  periodic evaluations, re-alignments, trainings.
+> - Coordinated a co-location move from London, UK to a fully remote hands set up in Amsterdam, NL.
+> - Coordinated a co-location move from New York, US to a different co-location provider in New Jersey, US.
 
 
 **Java Developer**  
 Mar 2012 – Nov 2014, 2 yrs 9 mo
     
-> - Developed the iOS financial research platform: backend and iOS app from scratch.
-> - Developed a platform for financial analysts performance portfolios.
+> - Developed the iOS financial research platform: backend (Java) and iOS (ObjectiveC) application.
+> - Created a web component (Java) for financial analysts performance portfolios.
     
 **Senior Network Engineer**  
 Mar 2010 – Mar 2012, 2 yrs 1 mo
     
-> - Coordinated and worked on the European data-center infrastructure, taking care of equipment selection,
->  hardware installation, network wiring and configuration in two
->   co-location facilities (London,UK and Timisoara, RO).
+> - Coordinated and implemented the european data-center infrastructure, taking care of equipment selection,
+>  hardware installation, network, wiring and configuration in two
+>  co-location facilities (London,UK and Timisoara, RO).
 > - Created flexible scripts to pull financial data from different provider platforms. 
 > - Revamped parts of the internationalization platform: leveling up text and time handling. 
 
