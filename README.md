@@ -23,7 +23,7 @@ Romanian, English, German, Hungarian
 **Chief Therapy Officer**  
 May 2020 - Present
 
-> - Help create or redefine road-maps across the company with product & business counterparts.
+> - Help create and refine road-maps across the company with product & business counterparts.
 > - Foster a culture of documentation and knowledge sharing across the organization.
 > - Managed the pandemic response in the work environment, seamless shifting the departments 
 > from in-office to fully remote.
@@ -55,7 +55,7 @@ Nov 2014 – Aug 2016, 1 yr 10 mo
 >  to end products through mentoring, training programs, inspiring active learning.
 > - Established continuous team communication and monitoring, weekly one on one meetings,
 >  periodic evaluations, re-alignments, trainings.
-> - Coordinated a co-location move from London, UK to a fully remote hands set up in Amsterdam, NL.
+> - Coordinated a co-location move from London, UK to a fully remote hands set up co-location facility in Amsterdam, NL.
 > - Coordinated a co-location move from New York, US to a different co-location provider in New Jersey, US.
 
 
