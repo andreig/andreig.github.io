@@ -23,11 +23,9 @@ Romanian, English, German, Hungarian
 **Chief Therapy Officer**  
 May 2020 - Present
 
-> - Fostered a culture across the organization of having conversations based on organizational 
-> strategy and principles to create alignment with business.
 > - Helped create or redefine road-maps across the company with product & business counterparts.
 > - Fostered a culture of documentation and knowledge sharing across the organization.
-> - Drove the pandemic response in the work environment, seamless shifting the departments
+> - Managed the pandemic response in the work environment, seamless shifting the departments
 >  from in-office to fully remote.
 > - Led the effort for accomplishing *encryption at rest* for databases and filesystems.
 
@@ -45,7 +43,7 @@ Aug 2016 – May 2020, 3 yrs 10 mo[^bm_doe]
 > - Initiated a technical debt reduction schedule, focusing 20% of the release cycles on improving security
 >  and stability,  drastically reducing technical debt in a concentrated fashion. Improved data storage,
 >   aligned internationalization components to current standards, upgraded job scheduling frameworks, 
->   decoupled the core business application into microservices.
+>   decoupled parts of the core business application into microservices.
 > - Established a uniform technical hiring and training process throughout the company, improving both
 >  the candidate selection process and experience but also the training stages.
 
