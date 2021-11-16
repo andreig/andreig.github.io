@@ -129,13 +129,13 @@ Sep 2007 – Mar 2010, 2 yrs 7 mo
 > - Upgrading the end-user domain management platform from a generic/fixed tier to a flexible dynamic tier model
     
 **Senior Software Developer**  
-Sep 2004 – Sep 2007, 3 yrs 1 mo[^netbeat_ssd]
+Sep 2004 – Sep 2007, 3 yrs 1 mo
 [^netbeat_ssd]: Bash, C, CSS, Debian Linux, HTML, Javascript, Perl
     
 > - Created both frontend and backend components for the retail domain selling business platform
     
 **Software Developer**  
-Sep 2001 – Sep 2006, 5 yrs 1 mo[^netbeat_sd]
+Sep 2001 – Sep 2006, 5 yrs 1 mo
 [^netbeat_sd]: Bash, C, Debian Linux, OpenBSD, Perl
     
 > - Developed APIs for various in-house enterprise and retail domain registration systems
@@ -149,7 +149,7 @@ Sep 2001 – Sep 2006, 5 yrs 1 mo[^netbeat_sd]
 ~ 5 **years**
 
 **Summer Intern**  
-1995 – 2000[^comtec_intern]
+1995 – 2000
 [^comtec_intern]: Batch, C, Debian Linux, DOS, AWK, Perl
     
 > - Worked every summer vacation throughout high school helping with IT helpdesk, hardware setup,
