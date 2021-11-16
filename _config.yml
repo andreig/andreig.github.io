@@ -1,2 +1,5 @@
 #theme: jekyll-theme-slate
-markdown: kramdown
+#markdown: kramdown
+markdown: redcarpet
+redcarpet:
+  extensions: ["footnotes"]
