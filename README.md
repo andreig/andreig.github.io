@@ -128,12 +128,17 @@ Sep 2001 – Sep 2006, 5 yrs 1 mo
 ~ 5 **years**
 
 **Summer Intern**  
-1995 – 2000
+1995 – 2000[^comtec_intern]
     
-    - Worked every summer vacation throughout high school helping with IT helpdesk, hardware setup, computer builds, OS & software installations, security scans, network configuration and maintenance
-    - Created small C, C++, scripting automation tasks for file sorting, archiving of documents, etc.
+    - Worked every summer vacation throughout high school helping with IT helpdesk, hardware setup,  
+      computer builds, OS & software installations, security scans, network configuration and maintenance.
+    - Created small C, C++, scripting automation tasks for file aggregation, sorting and archiving of documents.
 
 
 ## EDUCATION
 
 **Politehnica University of Timișoara,** Bachelor of Engineering - BE, 1999 - 2004
+
+---
+[^comtec_intern] DOS, Netware, Debian Linux / Batch, C, AWK, Bash, Perl 
+
