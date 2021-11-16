@@ -22,23 +22,25 @@ Romanian, English, German, Hungarian
 
 **Chief Therapy Officer**  
 May 2020 - Present
-    
+
 > - Fostered a culture across the organization of having conversations based on organizational 
 > strategy and principles to create alignment with business.
 > - Helped create or redefine road-maps across the company with product & business counterparts.
 > - Fostered a culture of documentation and knowledge sharing across the organization.
 > - Drove the pandemic response in the work environment, seamless shifting the departments
->  from in-office to fully remote .
+>  from in-office to fully remote.
+> - Led the effort for accomplishing *encryption at rest* for databases and filesystems.
 
 
 **Director Of Engineering**  
-Aug 2016 – May 2020, 3 yrs 10 mo
+Aug 2016 – May 2020, 3 yrs 10 mo[^bm_doe]
+[^bm_doe]: Ansible, ELK, MySQL, Prometheus & Grafana
     
 > - Ran pre-sales cycles for major European clients, tailoring services and products to meet customer needs,
 >  helping the closing deals of ~2M+ in revenue. Pre-sales activity included discovering details of business
 >   that the prospect has, tailoring solution presentations, preparing technical RFPs, creating and running PoCs.
 > - Led operations for streamlining new client onboarding, established a repeatable, clear process for both
->  technologists and account managers . Added traceability, significantly reduced complexity and time from
+>  technologists and account managers. Added traceability, significantly reduced complexity and time from
 >   contract signing to go-live. 
 > - Initiated a technical debt reduction schedule, focusing 20% of the release cycles on improving security
 >  and stability,  drastically reducing technical debt in a concentrated fashion. Improved data storage,
@@ -127,12 +129,14 @@ Sep 2007 – Mar 2010, 2 yrs 7 mo
 > - Upgrading the end-user domain management platform from a generic/fixed tier to a flexible dynamic tier model
     
 **Senior Software Developer**  
-Sep 2004 – Sep 2007, 3 yrs 1 mo
+Sep 2004 – Sep 2007, 3 yrs 1 mo[^netbeat_ssd]
+[^netbeat_ssd]: Bash, C, CSS, Debian Linux, HTML, Javascript, Perl
     
 > - Created both frontend and backend components for the retail domain selling business platform
     
 **Software Developer**  
-Sep 2001 – Sep 2006, 5 yrs 1 mo
+Sep 2001 – Sep 2006, 5 yrs 1 mo[^netbeat_sd]
+[^netbeat_sd]: Bash, C, Debian Linux, OpenBSD, Perl
     
 > - Developed APIs for various in-house enterprise and retail domain registration systems
     
@@ -145,7 +149,8 @@ Sep 2001 – Sep 2006, 5 yrs 1 mo
 ~ 5 **years**
 
 **Summer Intern**  
-1995 – 2000
+1995 – 2000[^comtec_intern]
+[^comtec_intern]: Batch, C, Debian Linux, DOS, AWK, Perl
     
 > - Worked every summer vacation throughout high school helping with IT helpdesk, hardware setup,
 > computer builds, OS & software installations, security scans, network configuration and maintenance.
