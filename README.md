@@ -41,7 +41,8 @@ Aug 2016 – May 2020, 3 yrs 10 mo
 >   contract signing to go-live. 
 > - Initiated a technical debt reduction schedule, focusing 20% of the release cycles on improving security
 >  and stability,  drastically reducing technical debt in a concentrated fashion. Improved data storage,
->   aligned internationalization components to current standards, upgraded job scheduling frameworks, decoupled the core business application into microservices.
+>   aligned internationalization components to current standards, upgraded job scheduling frameworks, 
+>   decoupled the core business application into microservices.
 > - Established a uniform technical hiring and training process throughout the company, improving both
 >  the candidate selection process and experience but also the training stages.
 
@@ -49,22 +50,26 @@ Aug 2016 – May 2020, 3 yrs 10 mo
 **Technical Team Lead**  
 Nov 2014 – Aug 2016, 1 yr 10 mo
     
-    - Grew the team from 4 for 9 people, establishing a cross-technical, cross-functional team able to complete end to end products through mentoring, training programs, inspiring active learning.
-    - Established continuous team communication and monitoring, weekly one on one meetings, periodic evaluations, re-alignments, trainings. 
+> - Grew the team from 4 for 9 people, establishing a cross-technical, cross-functional team able to complete end
+>  to end products through mentoring, training programs, inspiring active learning.
+> - Established continuous team communication and monitoring, weekly one on one meetings,
+>  periodic evaluations, re-alignments, trainings. 
 
 
 **Java Developer**  
 Mar 2012 – Nov 2014, 2 yrs 9 mo
     
-    - Developed the iOS financial research platform: backend and iOS app from scratch.
-    - Developed a platform for financial analysts performance portfolios.
+> - Developed the iOS financial research platform: backend and iOS app from scratch.
+> - Developed a platform for financial analysts performance portfolios.
     
 **Senior Network Engineer**  
 Mar 2010 – Mar 2012, 2 yrs 1 mo
     
-    - Coordinated and worked on the European data-center infrastructure, taking care of equipment selection, hardware installation, network wiring and configuration in two co-location facilities (London,UK and Timisoara, RO).
-    - Created flexible scripts to pull financial data from different provider platforms. 
-    - Revamped parts of the internationalization platform: leveling up text and time handling. 
+> - Coordinated and worked on the European data-center infrastructure, taking care of equipment selection,
+>  hardware installation, network wiring and configuration in two
+>   co-location facilities (London,UK and Timisoara, RO).
+> - Created flexible scripts to pull financial data from different provider platforms. 
+> - Revamped parts of the internationalization platform: leveling up text and time handling. 
 
 ---
 
@@ -79,10 +84,14 @@ Mar 2010 – Mar 2012, 2 yrs 1 mo
 **Teaching Assistant**  
 Oct 2004 - Jun 2014, 9 yrs 9 mo
 
-    - Created the *Networking* and *Software Modeling* lab materials, helped create and teach the *Operating Systems* lab.
-    - Created the B624 lab portal (https://www.b624.net) as a place to share laboratory materials, share up to date information, post exam schedules and grades and most importantly host class material in an accessible format for students. 
-    - Established the ActiveState, Github and Dropbox educational partnerships resulting in student privileged access to free licenses, private repositories and free cloud storage.
-    - Introduced GitHub laboratory assignment tracking and grading, helping students getting familiar with Version Control Systems and also improving traceability for assignments. 
+> - Created the *Networking* and *Software Modeling* lab materials, helped create and teach the *Operating Systems* lab.
+> - Created the B624 lab portal [www.b624.net](https://www.b624.net) as a place to share laboratory materials,
+>  share up to date information, post exam schedules and grades and most importantly
+>   host class material in an accessible format for students. 
+> - Established the ActiveState, Github and Dropbox educational partnerships resulting in student privileged access
+>  to free licenses, private repositories and free cloud storage.
+> - Introduced GitHub laboratory assignment tracking and grading, helping students getting familiar
+>  with Version Control Systems and also improving traceability for assignments. 
 
 ---
 
@@ -96,9 +105,9 @@ Oct 2004 - Jun 2014, 9 yrs 9 mo
 **Technical Lead**  
 Oct 2007 - Mar 2010, 2 yrs 6mo
     
-    - Worked on upgrading/upscaling site from a monolithic architecture to a modular, micro-service based model
-    - Added an interactive ISP reviewing and grading module
-    - Integrated Google Wallet payment system
+> - Worked on upgrading/upscaling site from a monolithic architecture to a modular, micro-service based model.
+> - Added an interactive ISP reviewing and grading module.
+> - Integrated Google Wallet payment system.
 
 ---
 
@@ -113,18 +122,18 @@ Oct 2007 - Mar 2010, 2 yrs 6mo
 **Solutions Architect**  
 Sep 2007 – Mar 2010, 2 yrs 7 mo
     
-    - Created a distributed domain registration and web hosting platform, fully automated setup,  70+ client servers deployed
-    - Upgrading the end-user domain management platform from a generic/fixed tier to a flexible dynamic tier model
+> - Created a distributed domain registration and web hosting platform, fully automated setup,  70+ client servers deployed
+> - Upgrading the end-user domain management platform from a generic/fixed tier to a flexible dynamic tier model
     
 **Senior Software Developer**  
 Sep 2004 – Sep 2007, 3 yrs 1 mo
     
-    - Created both frontend and backend components for the retail domain selling business platform
+> - Created both frontend and backend components for the retail domain selling business platform
     
 **Software Developer**  
 Sep 2001 – Sep 2006, 5 yrs 1 mo
     
-    - Developed APIs for various in-house enterprise and retail domain registration systems
+> - Developed APIs for various in-house enterprise and retail domain registration systems
     
 ---
 
@@ -137,13 +146,14 @@ Sep 2001 – Sep 2006, 5 yrs 1 mo
 **Summer Intern**  
 1995 – 2000
     
-    - Worked every summer vacation throughout high school helping with IT helpdesk, hardware setup,  
-      computer builds, OS & software installations, security scans, network configuration and maintenance.
-    - Created small C, C++, scripting automation tasks for file aggregation, sorting and archiving of documents.
+> - Worked every summer vacation throughout high school helping with IT helpdesk, hardware setup,
+> computer builds, OS & software installations, security scans, network configuration and maintenance.
+> - Created small C, C++, scripting automation tasks for file aggregation, sorting and archiving of documents.
 
 
 ## EDUCATION
 
 **Politehnica University of Timișoara,** Bachelor of Engineering - BE, 1999 - 2004
+> [proiect-de-diplomă.de](https://www.proiect-de-diplomă.de)
 
 
