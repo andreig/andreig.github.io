@@ -148,7 +148,7 @@ Sep 2001 – Sep 2006, 5 yrs 1 mo
 **Comtec SRL**
 ~ 5 **years**
 
-**Summer Intern**[^comtec_intern]  
+**Summer Intern**
 1995 – 2000
 [^comtec_intern]: Batch, C, Debian Linux, DOS, AWK, Perl
     
