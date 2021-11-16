@@ -154,6 +154,6 @@ Sep 2001 – Sep 2006, 5 yrs 1 mo
 ## EDUCATION
 
 **Politehnica University of Timișoara,** Bachelor of Engineering - BE, 1999 - 2004
-> [proiect-de-diplomă.de](https://www.proiect-de-diplomă.de)
+> [proiect-de-diplomă.de](http://www.proiect-de-diplomă.de)
 
 
