@@ -1,7 +1,10 @@
+
+[comment]: # (Linebreakes are double spaces)
+
 # Andrei GUDIU
-[andreig@openbsd-box.org](mailto:andreig@openbsd-box.org)      
-[+40749167777](tel:+40749167777)    
-Romanian, English, German, Hungarian<br> 
+[andreig@openbsd-box.org](mailto:andreig@openbsd-box.org)  
+[+40749167777](tel:+40749167777)  
+Romanian, English, German, Hungarian  
 [www.linkedin.com/in/andrei-gudiu/](https://www.linkedin.com/in/andrei-gudiu/)
 
 
@@ -13,7 +16,7 @@ Romanian, English, German, Hungarian<br>
 
 **BlueMatrix**  
 11 **yrs, 9 mo**  
-[https://www.bluematrix.com](www.bluematrix.com)
+[www.bluematrix.com](https://www.bluematrix.com)
 
 
 **Chief Therapy Officer** 
@@ -56,32 +59,29 @@ Mar 2010 – Mar 2012, 2 yrs 1 mo
     - Created flexible scripts to pull financial data from different provider platforms. 
     - Revamped parts of the internationalization platform: leveling up text and time handling. 
 
-----------
+---
 
 ![Politehnica University logo](/images/logos/upt.png)
-
 
 **Politehnica University Timișoara**,
 Automation and Computers  
 **9 yrs, 9mo**  
-[https://ac.upt.ro](ac.upt.ro)
-
+[ac.upt.ro](https://ac.upt.ro)
 
 
 **Teaching Assistant**
 Oct 2004 - Jun 2014, 9 yrs 9 mo
-
 
     - Created the *Networking* and *Software Modeling* lab materials, helped create and teach the *Operating Systems* lab.
     - Created the B624 lab portal (https://www.b624.net) as a place to share laboratory materials, share up to date information, post exam schedules and grades and most importantly host class material in an accessible format for students. 
     - Established the ActiveState, Github and Dropbox educational partnerships resulting in student privileged access to free licenses, private repositories and free cloud storage.
     - Introduced GitHub laboratory assignment tracking and grading, helping students getting familiar with Version Control Systems and also improving traceability for assignments. 
 ----------
-![DSL Reports logo](/images/logos/dsl.png
+![DSL Reports logo](/images/logos/dsl.png)
 
 **DSL Reports**   
 **2 yrs 6 mo**  
-[https://www.dslreports.com](www.dslreports.com)
+[www.dslreports.com](https://www.dslreports.com)
 
 
 
@@ -91,34 +91,35 @@ Oct 2007 - Mar 2010, 2 yrs 6mo
     - Worked on upgrading/upscaling site from a monolithic architecture to a modular, micro-service based model
     - Added an interactive ISP reviewing and grading module
     - Integrated Google Wallet payment system
-----------
+
+---
+
 ![Cronon AG logo](/images/logos/cronon.png)
 
+**Cronon AG**  
+**8 yrs 7 mo**  
+[https://cronon.net](cronon.net)  
+[https://www.netbeat.de](www.netbeat.de)
 
-**Cronon AG**
-**8 yrs 7 mo**
-https://cronon.net
-https://www.netbeat.de
-
-
-    
- **Solutions Architect**
- Sep 2007 – Mar 2010, 2 yrs 7 mo
+ 
+**Solutions Architect**
+Sep 2007 – Mar 2010, 2 yrs 7 mo
     
     - Created a distributed domain registration and web hosting platform, fully automated setup,  70+ client servers deployed
     - Upgrading the end-user domain management platform from a generic/fixed tier to a flexible dynamic tier model
     
- **Senior Software Developer**
- Sep 2004 – Sep 2007, 3 yrs 1 mo
+**Senior Software Developer**
+Sep 2004 – Sep 2007, 3 yrs 1 mo
     
     - Created both frontend and backend components for the retail domain selling business platform
     
- **Software Developer**
- Sep 2001 – Sep 2006, 5 yrs 1 mo
+**Software Developer**
+Sep 2001 – Sep 2006, 5 yrs 1 mo
     
     - Developed APIs for various in-house enterprise and retail domain registration systems
     
-----------
+---
+
 ![Comtec SRL generic logo](/images/logos/comtec.png)
 
 
