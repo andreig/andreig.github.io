@@ -7,6 +7,7 @@
 Romanian, English, German, Hungarian  
 [www.linkedin.com/in/andrei-gudiu/](https://www.linkedin.com/in/andrei-gudiu/)
 
+&emsp; &emsp; Hello world, I'm a lead / software developer / devops based in Timișoara, România. I love driving classic Porsche cars while I'm sleeping, riding motorcycles and listening to Mexican Rock music while I'm awake. 
 
 ## EXPERIENCE
 
