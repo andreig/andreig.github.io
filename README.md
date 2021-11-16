@@ -1,19 +1,19 @@
 # Andrei GUDIU
-andreig@openbsd-box.org\
-+40749167777\
-Romanian, English, German, Hungarian\
-https://www.linkedin.com/in/andrei-gudiu/
+[andreig@openbsd-box.org](mailto:andreig@openbsd-box.org)      
+[+40749167777](tel:+40749167777)    
+Romanian, English, German, Hungarian  
+[https://www.linkedin.com/in/andrei-gudiu/](https://www.linkedin.com/in/andrei-gudiu/)
 
 
 ## EXPERIENCE
 
 
-![](https://paper-attachments.dropbox.com/s_D7AE016DE281AA8DB3281CBA5354116B051D9F944522D1C245C69A63FF7474CD_1636643496525_bmlogo_100.png)
+![BlueMatrix Logo](/images/logos/bm.png)
 
 
-**BlueMatrix**
-11 **yrs, 9 mo**
-https://www.bluematrix.com
+**BlueMatrix**  
+11 **yrs, 9 mo**  
+[https://www.bluematrix.com](www.bluematrix.com)
 
 
 **Chief Therapy Officer** 
@@ -43,31 +43,33 @@ Nov 2014 – Aug 2016, 1 yr 10 mo
     - Established continuous team communication and monitoring, weekly one on one meetings, periodic evaluations, re-alignments, trainings. 
 
 
-    **Java Developer**
-    Mar 2012 – Nov 2014, 2 yrs 9 mo
+**Java Developer**
+Mar 2012 – Nov 2014, 2 yrs 9 mo
     
     - Developed the iOS financial research platform: backend and iOS app from scratch.
     - Developed a platform for financial analysts performance portfolios.
     
-    **Senior Network Engineer**
-    Mar 2010 – Mar 2012, 2 yrs 1 mo
+**Senior Network Engineer**
+Mar 2010 – Mar 2012, 2 yrs 1 mo
     
     - Coordinated and worked on the European data-center infrastructure, taking care of equipment selection, hardware installation, network wiring and configuration in two co-location facilities (London,UK and Timisoara, RO).
     - Created flexible scripts to pull financial data from different provider platforms. 
     - Revamped parts of the internationalization platform: leveling up text and time handling. 
+
 ----------
-![](https://paper-attachments.dropbox.com/s_D7AE016DE281AA8DB3281CBA5354116B051D9F944522D1C245C69A63FF7474CD_1636642498498_upt.png)
+
+![Politehnica University logo](/images/logos/upt.png)
 
 
-**Politehnica University Timișoara**
-Automation and Computers
-**9 yrs, 9mo**
-https://ac.upt.ro
+**Politehnica University Timișoara**,
+Automation and Computers  
+**9 yrs, 9mo**  
+[https://ac.upt.ro](ac.upt.ro)
 
 
 
-    **Teaching Assistant**
-    Oct 2004 - Jun 2014, 9 yrs 9 mo
+**Teaching Assistant**
+Oct 2004 - Jun 2014, 9 yrs 9 mo
 
 
     - Created the *Networking* and *Software Modeling* lab materials, helped create and teach the *Operating Systems* lab.
@@ -75,23 +77,22 @@ https://ac.upt.ro
     - Established the ActiveState, Github and Dropbox educational partnerships resulting in student privileged access to free licenses, private repositories and free cloud storage.
     - Introduced GitHub laboratory assignment tracking and grading, helping students getting familiar with Version Control Systems and also improving traceability for assignments. 
 ----------
-![](https://paper-attachments.dropbox.com/s_D7AE016DE281AA8DB3281CBA5354116B051D9F944522D1C245C69A63FF7474CD_1578435974832_0.png)
+![DSL Reports logo](/images/logos/dsl.png
+
+**DSL Reports**   
+**2 yrs 6 mo**  
+[https://www.dslreports.com](www.dslreports.com)
 
 
-**DSL Reports** 
-**2 yrs 6 mo**
-https://www.dslreports.com
 
-
-
-    **Technical Lead**
-    Oct 2007 - Mar 2010, 2 yrs 6mo
+**Technical Lead**
+Oct 2007 - Mar 2010, 2 yrs 6mo
     
     - Worked on upgrading/upscaling site from a monolithic architecture to a modular, micro-service based model
     - Added an interactive ISP reviewing and grading module
     - Integrated Google Wallet payment system
 ----------
-![](https://paper-attachments.dropbox.com/s_D7AE016DE281AA8DB3281CBA5354116B051D9F944522D1C245C69A63FF7474CD_1578645609933_0.png)
+![Cronon AG logo](/images/logos/cronon.png)
 
 
 **Cronon AG**
@@ -101,41 +102,36 @@ https://www.netbeat.de
 
 
     
-    **Solutions Architect**
-    Sep 2007 – Mar 2010, 2 yrs 7 mo
+ **Solutions Architect**
+ Sep 2007 – Mar 2010, 2 yrs 7 mo
     
     - Created a distributed domain registration and web hosting platform, fully automated setup,  70+ client servers deployed
     - Upgrading the end-user domain management platform from a generic/fixed tier to a flexible dynamic tier model
     
-    **Senior Software Developer**
-    Sep 2004 – Sep 2007, 3 yrs 1 mo
+ **Senior Software Developer**
+ Sep 2004 – Sep 2007, 3 yrs 1 mo
     
     - Created both frontend and backend components for the retail domain selling business platform
     
-    **Software Developer**
-    Sep 2001 – Sep 2006, 5 yrs 1 mo
+ **Software Developer**
+ Sep 2001 – Sep 2006, 5 yrs 1 mo
     
     - Developed APIs for various in-house enterprise and retail domain registration systems
     
 ----------
-![](https://paper-attachments.dropbox.com/s_D7AE016DE281AA8DB3281CBA5354116B051D9F944522D1C245C69A63FF7474CD_1636643748568_comtec.png)
+![Comtec SRL generic logo](/images/logos/comtec.png)
 
 
 **Comtec SRL**
 ~ 5 **years**
 
-
-
-
-    **Summer Intern**
-    1995 – 2000
+**Summer Intern**
+1995 – 2000
     
     - Worked every summer vacation throughout high school helping with IT helpdesk, hardware setup, computer builds, OS & software installations, security scans, network configuration and maintenance
     - Created small C, C++, scripting automation tasks for file sorting, archiving of documents, etc.
 
 
-
 ## EDUCATION
-----------
 
 **Politehnica University of Timișoara,** Bachelor of Engineering - BE, 1999 - 2004
