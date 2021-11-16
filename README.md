@@ -1,8 +1,8 @@
 # Andrei GUDIU
 [andreig@openbsd-box.org](mailto:andreig@openbsd-box.org)      
 [+40749167777](tel:+40749167777)    
-Romanian, English, German, Hungarian  
-[https://www.linkedin.com/in/andrei-gudiu/](https://www.linkedin.com/in/andrei-gudiu/)
+Romanian, English, German, Hungarian<br> 
+[www.linkedin.com/in/andrei-gudiu/](https://www.linkedin.com/in/andrei-gudiu/)
 
 
 ## EXPERIENCE
