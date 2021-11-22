@@ -54,6 +54,7 @@ Nov 2014 – Aug 2016, 1 yr 10 mo
 >  to end products through mentoring, training programs, inspiring active learning.
 > - Established continuous team communication and monitoring, weekly one on one meetings,
 >  periodic evaluations, re-alignments, trainings.
+> - Kicked off the automation (Ansible) & CI/CD (GoCD) infrastructure. 
 > - Coordinated a co-location move from London, UK to a fully remote hands set up co-location facility in Amsterdam, NL.
 > - Coordinated a co-location move from New York, US to a different co-location provider in New Jersey, US.
 
@@ -70,6 +71,7 @@ Mar 2010 – Mar 2012, 2 yrs 1 mo
 > - Coordinated and implemented the european data-center infrastructure, taking care of equipment selection,
 >  hardware installation, network, wiring and configuration in two
 >  co-location facilities (London,UK and Timisoara, RO).
+> - Built scripts to migrate authoring clients from the old Perl/SyBase infrastructure to the newer Java/MySQL platform.
 > - Created flexible scripts to pull financial data from different provider platforms. 
 > - Revamped parts of the internationalization platform: leveling up text and time handling. 
 
