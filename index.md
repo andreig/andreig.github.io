@@ -19,7 +19,7 @@ Romanian, English, German, Hungarian
 [www.bluematrix.com](https://www.bluematrix.com)
 
 
-**Chief Therapy Officer**  
+**Chief Technology Officer**  
 May 2020 - Present
 
 > - Help create and refine road-maps across the company with product & business counterparts.
@@ -55,8 +55,8 @@ Nov 2014 – Aug 2016, 1 yr 10 mo
 > - Established continuous team communication and monitoring, weekly one on one meetings,
 >  periodic evaluations, re-alignments, trainings.
 > - Kicked off the automation (Ansible) & CI/CD (GoCD) infrastructure. 
-> - Coordinated a co-location move from London, UK to a fully remote hands set up co-location facility in Amsterdam, NL.
-> - Coordinated a co-location move from New York, US to a different co-location provider in New Jersey, US.
+> - Coordinated two co-location moves: from New York, US to a different co-location provider in New Jersey, US and 
+>  from London, UK to a fully, remote hands set up co-location facility in Amsterdam, NL.
 
 
 **Java Developer**  
