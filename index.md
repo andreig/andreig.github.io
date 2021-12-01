@@ -55,6 +55,7 @@ Nov 2014 – Aug 2016, 1 yr 10 mo
 > - Established continuous team communication and monitoring, weekly one on one meetings,
 >  periodic evaluations, re-alignments, trainings.
 > - Kicked off the automation (Ansible) & CI/CD (GoCD) infrastructure. 
+> - Negotiated three co-location contracts remotely plus the purchase of own IP addresses (from both ARIN & RIPE)
 > - Coordinated two co-location moves: from New York, US to a different co-location provider in New Jersey, US and 
 >  from London, UK to a fully, remote hands set up co-location facility in Amsterdam, NL.
 
