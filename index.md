@@ -15,7 +15,7 @@ Romanian, English, German, Hungarian
 
 
 **BlueMatrix**  
-11 **yrs, 9 mo**  
+11 **yrs, 11 mo**  
 [www.bluematrix.com](https://www.bluematrix.com)
 
 
@@ -27,6 +27,8 @@ May 2020 - Present
 > - Managed the pandemic response in the work environment, seamless shifting the departments 
 > from in-office to fully remote.
 > - Led the effort for accomplishing *encryption at rest* for databases and filesystems.
+> - Bootstrapped Bluematrix's Agile transformation
+> - Cloud rocket firing up 🛫 🌤️
 
 
 **Director Of Engineering**  
