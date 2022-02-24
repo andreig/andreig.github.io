@@ -28,7 +28,7 @@ May 2020 - Present
 > from in-office to fully remote.
 > - Led the effort for accomplishing *encryption at rest* for databases and filesystems.
 > - Bootstrapped Bluematrix's Agile transformation
-> - Cloud rocket firing up 🛫 🌤️
+> - Cloud journey take-off 🛫 🌤️
 
 
 **Director Of Engineering**  
