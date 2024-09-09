@@ -15,20 +15,22 @@ Romanian, English, German, Hungarian
 
 
 **BlueMatrix**  
-Almost 14 years and counting...  
+Almost 15 years and counting...  
 [www.bluematrix.com](https://www.bluematrix.com)
 
 
 **Chief Technology Officer**  
-May 2020 - Present
+May 2020 - Aug 2024
 
+> - Played a key role in facilitating a successful private equity investment. ThomaBravo <-> BlueMatrix.
 > - Help create and refine road-maps across the company with product & business counterparts.
-> - Foster a culture of documentation and knowledge sharing across the organization.
-> - Managed the pandemic response in the work environment, seamless shifting the departments 
-> from in-office to fully remote.
+> - Foster a culture knowledge sharing across the organization.
 > - Led the effort for accomplishing *encryption at rest* for databases and filesystems.
 > - Bootstrapped Bluematrix's Agile transformation
-> - Cloud journey take-off 🛫 🌤️
+> - Cloud transition take-off 🛫 🌤️
+> - Managed the pandemic response in the work environment, seamless shifting the departments 
+> from in-office to fully remote.
+
 
 
 **Director Of Engineering**  
