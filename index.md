@@ -165,6 +165,8 @@ Sep 2001 – Sep 2006, 5 yrs 1 mo
 ## EDUCATION
 
 **Politehnica University of Timișoara,** Bachelor of Engineering - BE, 1999 - 2004
-> [proiect-de-diplomă.de](http://www.proiect-de-diplomă.de)
+> Thesis focused on expanding a domain reseller business by incorporating international domains, addressing strategies for market entry, localization, and operational scalability.
+> 
+> [proiect-de-diplomă.de](http://www.proiect-de-diplomă.de) (Romanian)
 
 
