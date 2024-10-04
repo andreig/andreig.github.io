@@ -1,6 +1,7 @@
 
 [comment]: # (Linebreakes are double spaces)
 
+# Andrei GUDIU
 [andreig@openbsd-box.org](mailto:andreig@openbsd-box.org)  
 [+40749167777](tel:+40749167777)  
 Romanian, English, German, Hungarian  
@@ -21,15 +22,13 @@ Almost 15 years and counting...
 **Chief Technology Officer**  
 May 2020 - Aug 2024
 
-> - Played a key role in facilitating a successful private equity investment. ThomaBravo <-> BlueMatrix.
-> - Help create and refine road-maps across the company with product & business counterparts.
-> - Foster a culture knowledge sharing across the organization.
-> - Led the effort for accomplishing *encryption at rest* for databases and filesystems.
-> - Bootstrapped Bluematrix's Agile transformation
-> - Cloud transition take-off 🛫 🌤️
-> - Managed the pandemic response in the work environment, seamless shifting the departments 
-> from in-office to fully remote.
-
+> - Contributed to BlueMatrix’s remarkable 74% revenue growth in 2024, driven by strategic private equity investment by Thoma Bravo.
+> - Played a key role in completing the strategic private equity investment by Thoma Bravo in BlueMatrix.
+> - Promoted a culture of continuous knowledge sharing across departments, fostering collaboration and innovation.
+> - Led the successful implementation of *encryption at rest* for BlueMatrix systems, enhancing security compliance.
+> - Sparked BlueMatrix's Agile transformation, laying the foundation for enhanced efficiency.
+> - Managed the organization’s seamless transition to a fully remote work environment during the pandemic,
+> ensuring operational continuity.
 
 
 **Director Of Engineering**  
