@@ -10,7 +10,7 @@ Romanian, English, German, Hungarian
 
 ## EXPERIENCE
 
-![BlueMatrix Logo](/images/logos/bm.png)
+![BlueMatrix Logo](https://raw.githubusercontent.com/andreig/andreig.github.io/master/images/logos/bm.png)
 
 
 **BlueMatrix**  
