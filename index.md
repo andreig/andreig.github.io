@@ -1,6 +1,8 @@
 
 [comment]: # (Linebreakes are double spaces)
 
+# Andrei GUDIU
+
 [andreig@openbsd-box.org](mailto:andreig@openbsd-box.org)  
 [+40749167777](tel:+40749167777)  
 Romanian, English, German, Hungarian  
@@ -79,7 +81,7 @@ Mar 2010 – Mar 2012, 2 yrs 1 mo
 
 ---
 
-![Politehnica University logo](/images/logos/upt.png)
+![Politehnica University logo](https://raw.githubusercontent.com/andreig/andreig.github.io/master/images/logos/upt.png)
 
 **Politehnica University Timișoara**,
 *Automation and Computers*  
@@ -101,7 +103,7 @@ Oct 2004 - Jun 2014, 9 yrs 9 mo
 
 ---
 
-![DSL Reports logo](/images/logos/dsl.png)
+![DSL Reports logo](https://raw.githubusercontent.com/andreig/andreig.github.io/master/images/logos/dsl.png)
 
 **DSL Reports**   
 **2 yrs 6 mo**  
@@ -117,7 +119,7 @@ Oct 2007 - Mar 2010, 2 yrs 6mo
 
 ---
 
-![Cronon AG logo](/images/logos/cronon.png)
+![Cronon AG logo](https://raw.githubusercontent.com/andreig/andreig.github.io/master/images/logos/cronon.png)
 
 **Cronon AG**  
 **8 yrs 7 mo**  
@@ -145,7 +147,7 @@ Sep 2001 – Sep 2006, 5 yrs 1 mo
     
 ---
 
-![Comtec SRL generic logo](/images/logos/comtec.png)
+![Comtec SRL generic logo](https://raw.githubusercontent.com/andreig/andreig.github.io/master/images/logos/comtec.png)
 
 
 **Comtec SRL**
