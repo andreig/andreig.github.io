@@ -8,7 +8,7 @@
 Romanian, English, German, Hungarian  
 [www.linkedin.com/in/andrei-gudiu/](https://www.linkedin.com/in/andrei-gudiu/)
 
-&emsp; &emsp; Hello world, I'm a procrastinator, a tech lead, software developer and infrastructure engieer based in Timișoara, România. I love driving classic Porsche cars while I'm sleeping, riding motorcycles and listening to Mexican Rock music while I'm awake. Thin mints, <img src="/images/hellokitty.png" width="25">, (*caramel sundae* & fries) 💛
+&emsp; &emsp; Hello world, I'm a procrastinator, a tech lead, software developer and infrastructure engieer based in Timișoara, România. I love driving classic Porsche cars while I'm sleeping, riding motorcycles and listening to Mexican Rock music while I'm awake. Thin mints, <img src="https://raw.githubusercontent.com/andreig/andreig.github.io/master/images/hellokitty.png" width="25">, (*caramel sundae* & fries) 💛
 
 ## EXPERIENCE
 
