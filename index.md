@@ -1,7 +1,6 @@
 
 [comment]: # (Linebreakes are double spaces)
 
-# Andrei GUDIU
 [andreig@openbsd-box.org](mailto:andreig@openbsd-box.org)  
 [+40749167777](tel:+40749167777)  
 Romanian, English, German, Hungarian  
