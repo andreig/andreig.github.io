@@ -9,14 +9,33 @@ Romanian, English, German, Hungarian
 [www.linkedin.com/in/andrei-gudiu/](https://www.linkedin.com/in/andrei-gudiu/)
 
 &emsp; &emsp; Hello world, I'm a product-minded technology leader with 25+ years building, shipping, and scaling software products across
-fintech, digital publishing, civic tech and infrastructure. I am a procrastinator, a tech lead, software developer and infrastructure engineer based in Timișoara, România. Proven ability to lead small, autonomous teams from
+fintech, digital publishing, civic tech and infrastructure. I have proven ability to lead small, autonomous teams from
 idea through launch, crafting roadmaps, running product discovery, and empowering engineers and
-designers to make great product decisions. Currently building ACTE123, a civic-tech platform from the
+designers to make great product decisions. 
+
+Currently building *ACTE123*, a civic-tech platform from the
 ground up using Next.js, Supabase, and AI-augmented workflows. Fully remote with a bias toward action, written communication, and a builder's mindset. Actively leveraging AI tools tools (Claude Code,
 Moonchild, DeepInfra, Hugginface, phew) to prototype, research, and ship faster.
-I love driving classic Porsche cars while I'm sleeping, riding motorcycles and listening to Mexican Rock music while I'm awake. Thin mints, <img src="https://raw.githubusercontent.com/andreig/andreig.github.io/master/images/hellokitty.png" width="25">, (*caramel sundae* & fries) 💛
+
+I love driving classic Porsche cars while I'm sleeping, riding motorcycles and listening to Mexican Rock music while I'm awake. Thin mints, <img src="https://raw.githubusercontent.com/andreig/andreig.github.io/master/images/hellokitty.png" width="25"> and *caramel sundae* with fries.
 
 ## EXPERIENCE
+
+![ACTE123 Logo](https://raw.githubusercontent.com/andreig/andreig.github.io/master/images/logos/acte123.png)
+
+**ACTE123**  
+2025 to date...  
+[www.acte123.ro](https://www.acte123.ro)
+
+**Founder**
+
+> - Conceived and built a civic-tech platform that simplifies access to administrative procedures, combining a public catalog, personalized planning engine, and full admin back-office
+> - Designed a conditional workflow system where admins define procedures, scenarios, requirements, steps, and fees - with JSONLogic-based rules that dynamically personalize each user's plan based on their answers
+> - Designed an extensible plugin system for third-party integrations to attach to workflow steps, with admin-configurable mappings and per-user data persistence
+> - Semantic search using pgvector embeddings with synonym expansion and Fuse.js fuzzy matching for off-line search
+> - Full-stack application: Next.js 16, React 19, TypeScript, Supabase
+
+---
 
 ![BlueMatrix Logo](https://raw.githubusercontent.com/andreig/andreig.github.io/master/images/logos/bm.png)
 
@@ -25,6 +44,12 @@ I love driving classic Porsche cars while I'm sleeping, riding motorcycles and l
 16 years and counting...  
 [www.bluematrix.com](https://www.bluematrix.com)
 
+**Vice President, Site Reliability**  
+Aug 2024 - Present
+
+> - Leading product reliability strategy for a global SaaS platform serving financial publishers and analysts
+> - Defining success metrics and reporting on infrastructure performance impact across the organization
+> - Collaborating with product and engineering leadership to align reliability initiatives with the product roadmap
 
 **Chief Technology Officer**  
 May 2020 - Aug 2024
