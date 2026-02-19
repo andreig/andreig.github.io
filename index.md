@@ -8,7 +8,13 @@
 Romanian, English, German, Hungarian  
 [www.linkedin.com/in/andrei-gudiu/](https://www.linkedin.com/in/andrei-gudiu/)
 
-&emsp; &emsp; Hello world, I'm a procrastinator, a tech lead, software developer and infrastructure engineer based in Timișoara, România. I love driving classic Porsche cars while I'm sleeping, riding motorcycles and listening to Mexican Rock music while I'm awake. Thin mints, <img src="https://raw.githubusercontent.com/andreig/andreig.github.io/master/images/hellokitty.png" width="25">, (*caramel sundae* & fries) 💛
+&emsp; &emsp; Hello world, I'm a product-minded technology leader with 25+ years building, shipping, and scaling software products across
+fintech, digital publishing, civic tech and infrastructure. I am a procrastinator, a tech lead, software developer and infrastructure engineer based in Timișoara, România. Proven ability to lead small, autonomous teams from
+idea through launch, crafting roadmaps, running product discovery, and empowering engineers and
+designers to make great product decisions. Currently building ACTE123, a civic-tech platform from the
+ground up using Next.js, Supabase, and AI-augmented workflows. Fully remote with a bias toward action, written communication, and a builder's mindset. Actively leveraging AI tools tools (Claude Code,
+Moonchild, DeepInfra, Hugginface, phew) to prototype, research, and ship faster.
+I love driving classic Porsche cars while I'm sleeping, riding motorcycles and listening to Mexican Rock music while I'm awake. Thin mints, <img src="https://raw.githubusercontent.com/andreig/andreig.github.io/master/images/hellokitty.png" width="25">, (*caramel sundae* & fries) 💛
 
 ## EXPERIENCE
 
@@ -16,7 +22,7 @@ Romanian, English, German, Hungarian
 
 
 **BlueMatrix**  
-Almost 15 years and counting...  
+16 years and counting...  
 [www.bluematrix.com](https://www.bluematrix.com)
 
 
